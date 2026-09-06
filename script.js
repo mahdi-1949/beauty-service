@@ -1,4 +1,4 @@
-['/beauty-service/minimal.css', '/beauty-service/footer.css'].forEach((href) => {
+['/beauty-service/minimal.css', '/beauty-service/footer.css', '/beauty-service/airy.css'].forEach((href) => {
   if (!document.querySelector(`link[href="${href}"]`)) {
     const stylesheet = document.createElement('link');
     stylesheet.rel = 'stylesheet';
