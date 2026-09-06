@@ -1,0 +1,21 @@
+.doctor-visual > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.doctor-name {
+  position: absolute;
+  right: 24px;
+  bottom: 24px;
+  min-width: 180px;
+  padding: 14px 20px;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  background: rgba(45, 41, 38, 0.9);
+}
+
+.doctor-name span { color: #dec6ba; font-size: 9px; }
+.doctor-name b { font-size: 17px; font-weight: 500; }
+.doctor-name small { color: #cfc6c0; font-size: 9px; }
