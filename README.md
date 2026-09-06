@@ -1,7 +1,5 @@
-# Beauty Service Landing Page
+# Arisa Medical Aesthetics
 
-یک لندینگ‌پیج فارسی و واکنش‌گرا برای نمایش خدمات کلینیک زیبایی آریسا.
+A polished, responsive landing page for a California medical aesthetics clinic.
 
-## اجرا
-
-فایل `index.html` را باز کنید یا پوشه را با یک وب‌سرور استاتیک اجرا کنید.
+Open `index.html` directly or serve the directory with any static web server.
