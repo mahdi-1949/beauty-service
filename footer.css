@@ -1,0 +1,18 @@
+.footer-intro .footer-brand {
+  display: grid;
+  grid-template-columns: 44px 1fr;
+  align-items: center;
+  column-gap: 14px;
+}
+
+.footer-intro .footer-brand > p {
+  grid-column: 1 / -1;
+  margin-top: 20px;
+}
+
+.site-footer .monogram { color: #181715; }
+.site-footer .footer-brand strong { color: #181715; }
+
+@media (max-width: 760px) {
+  .footer-intro .footer-brand { grid-template-columns: 40px 1fr; }
+}
